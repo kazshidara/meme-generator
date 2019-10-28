@@ -1,3 +1,9 @@
+My first attempt at creating a simple React Application, a Meme Generator:
+- Input text and choose from a random selection of pictures 
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
